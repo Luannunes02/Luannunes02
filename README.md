@@ -1,6 +1,6 @@
 ### Hey, my name is Luan and welcome to my profile 👋
 <hr/>
-### <strong>😁 About Me:</strong> <br><br>
+<h3><strong>😁 About Me:</strong></h3> 
 My name is Luan, and I'm a FullStack Developer, I finished college of ADS at the end of 2021, that a finished I'm always training and doing projects for improve my skills. I'm tech enthusiast who loves software, every day I'm improving and growing more and more.
 <hr/>
 
