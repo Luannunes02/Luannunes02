@@ -28,7 +28,8 @@ My name is Luan, and I'm a FullStack Developer, I finished college of ADS at the
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luannunes02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 😎 My portfolio:
-Em breve...
+
+https://portifolio-beta-pink.vercel.app
 
 ### <strong>💻 Connect with me:</strong> <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-nunes-esbaltar/)
