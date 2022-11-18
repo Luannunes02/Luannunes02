@@ -1,6 +1,6 @@
 ### Olá, eu sou o Luan e seja muito bem vindo 👋
 <hr/>
-<h3><strong>😁 Sobre mim:</strong></h3> <br>
+<h3><strong>😁 Sobre mim:</strong></h3>
 Entusiasta por tecnologia e programação! 💻
 
 Formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, diariamente praticando e me aprimorando cada vez mais na área.
