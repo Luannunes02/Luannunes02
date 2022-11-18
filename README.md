@@ -7,7 +7,7 @@ Formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, di
 Adoro desenvolver e os desafios que proporciona, um crescimento continuo superando os desafios que tem no decorrer do mesmo, proporcionar soluções e inovação.
 <hr/>
 
-### 💡 Technologies:  <br><br>
+### 💡 Tecnologias:  <br><br>
 
 <div style='display:inline_block;'>
   <img align='center' alt='React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
