@@ -32,7 +32,7 @@ Adoro desenvolver e os desafios que proporciona, um crescimento continuo superan
 
 ### 😎 Meu portifólio:
 
-https://portifolio-beta-pink.vercel.app
+https://portfolio-me-weld.vercel.app
 
 ### <strong>💻 Entre em contato comigo: </strong> <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-nunes-esbaltar/)
