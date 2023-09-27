@@ -30,8 +30,6 @@ Adoro desenvolver e os desafios que proporciona, um crescimento continuo superan
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luannunes02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-scrum-foundation-professional-certificate-sfpc 1 (3)
-
 ### 😎 Meu portifólio:
 
 https://portfolio-me-weld.vercel.app
