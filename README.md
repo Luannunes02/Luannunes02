@@ -1,6 +1,6 @@
 <!-- Banner Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9E6EE8&height=200&section=header&text=Luan%20Nunes%20Esbaltar&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20Pleno%20|%20Angular%20|%20React%20|%20Java%20|%20Node.js%20|%20NestJS&descAlignY=60&descAlign=50" alt="Luan Nunes Esbaltar" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9E6EE8&height=200&section=header&text=Luan%20Nunes%20Esbaltar&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20Pleno%20|%20Angular%20|%20React%20|%20Java%20|%20Laravel%20|%20Node.js%20|%20NestJS&descAlignY=60&descAlign=50" alt="Luan Nunes Esbaltar" width="100%"/>
 </div>
 
 <!-- Badges de Contato -->
