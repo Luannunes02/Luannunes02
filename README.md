@@ -1,6 +1,6 @@
 <!-- Banner Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9E6EE8&height=200&section=header&text=Luan%20Nunes%20Esbaltar&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20|%20Angular%20|%20React%20|%20Node.js%20|%20NestJS%20|%20Laravel&descAlignY=60&descAlign=50" alt="Luan Nunes Esbaltar" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:9E6EE8&height=200&section=header&text=Luan%20Nunes%20Esbaltar&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20Pleno%20|%20Angular%20|%20React%20|%20Java%20|%20Node.js%20|%20NestJS&descAlignY=60&descAlign=50" alt="Luan Nunes Esbaltar" width="100%"/>
 </div>
 
 <!-- Badges de Contato -->
@@ -26,7 +26,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor Full Stack com **2+ anos de experiência** na criação de aplicações web escaláveis e de alta performance. Especializado em **Angular, React, Node.js, NestJS e Laravel**, com foco em arquiteturas robustas, código limpo (Clean Code, SOLID) e metodologias ágeis (SCRUM).
+Desenvolvedor **Full Stack Pleno** com **2+ anos de experiência** na criação de aplicações web escaláveis e de alta performance. Especializado em **Angular, React, Java, Spring Boot, Node.js, NestJS e Laravel**, com foco em arquiteturas robustas, código limpo (Clean Code, SOLID) e metodologias ágeis (SCRUM).
 
 Atualmente trabalho na **Eagle Inteligência Digital & Eagle Care**, onde desenvolvo soluções para o setor de saúde e inteligência digital, incluindo uma aplicação TWA utilizada por diversos municípios do Rio Grande do Sul.
 
@@ -41,9 +41,9 @@ Possuo experiência comprovada na otimização de APIs, implementação de teste
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Luannunes02&show_icons=true&theme=tokyonight&hide_border=true" />
 
 ### Eagle Inteligência Digital & Eagle Care
-**Desenvolvedor Full Stack** | *Jun/2023 - Atual*
+**Desenvolvedor Full Stack Pleno** | *Jun/2023 - Atual*
 
-- Desenvolvimento e manutenção de aplicações web e sistemas internos utilizando **Angular, React, Next.js, NestJS, Laravel, Node.js**
+- Desenvolvimento e manutenção de aplicações web e sistemas internos utilizando **Angular, React, Java, Spring Boot, Next.js, NestJS, Laravel, Node.js**
 - Liderança no desenvolvimento de uma aplicação de saúde TWA disponível na Play Store e App Store
 - Otimização de performance e segurança de APIs RESTful
 - Implementação de boas práticas como Clean Code, SOLID e testes automatizados
@@ -67,6 +67,10 @@ Possuo experiência comprovada na otimização de APIs, implementação de teste
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -98,23 +102,40 @@ Possuo experiência comprovada na otimização de APIs, implementação de teste
 
 <br>
 
+## 🏆 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/Luannunes02/pecunia-front" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luannunes02&repo=pecunia-front&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Luannunes02/pecunia-back" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luannunes02&repo=pecunia-back&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+### 💰 Pecunia - Sistema de Gestão Financeira
+
+Aplicação completa de gestão financeira desenvolvida com:
+- **Frontend**: Angular, TypeScript, Material UI
+- **Backend**: Java, Spring Boot, Spring Security, JPA/Hibernate
+- **Banco de Dados**: MySQL
+
+Este projeto full stack demonstra minha capacidade de desenvolver soluções completas, desde a arquitetura do backend em Java até interfaces responsivas e intuitivas com Angular.
+
+<div align="center">
+  <a href="https://portfolio-me-weld.vercel.app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luannunes02&repo=portfolio-me&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<br>
+
 ## 🎓 Formação Acadêmica
 
 - **Pós-graduação em Banco de Dados** - Concluído (2025)
 - **Pós-graduação em Sistemas da Informação** - Concluído (2025)
 - **Análise e Desenvolvimento de Sistemas** - UNIP DF - Concluído (2021)
 - **Inglês Avançado/Fluente** - Centro Interescolar de Línguas (CIL) - 6 anos
-
-<br>
-
-## 🏆 Projetos em Destaque
-
-<div align="center">
-  <a href="https://portfolio-me-weld.vercel.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Luannunes02&repo=portfolio-me&theme=tokyonight&hide_border=true" />
-  </a>
-  <!-- Adicione mais projetos aqui quando disponíveis -->
-</div>
 
 <br>
 
@@ -135,7 +156,7 @@ Possuo experiência comprovada na otimização de APIs, implementação de teste
 
 ## 📫 Vamos Conversar?
 
-Estou aberto a novas oportunidades e colaborações! Se você está procurando um desenvolvedor Full Stack comprometido com qualidade e resultados, entre em contato:
+Estou aberto a novas oportunidades e colaborações! Se você está procurando um desenvolvedor Full Stack Pleno comprometido com qualidade e resultados, entre em contato:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luan-nunes-esbaltar/" target="_blank">
